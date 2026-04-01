@@ -1,4 +1,4 @@
-# AD_GodLike 🧠🔥
+# 🧠*/AD_GodLike/*🧠
 
 Playbook completo per attacchi Active Directory – orientato a PNPT / real-world pentest.
 
@@ -8,9 +8,6 @@ Playbook completo per attacchi Active Directory – orientato a PNPT / real-worl
 - Privilege Escalation
 - Lateral Movement
 - DA compromise
-
-## Mindset
-Manual → Semi-Automated → Automated
 
 ## Tool principali
 - nmap
