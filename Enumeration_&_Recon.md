@@ -14,10 +14,10 @@ L’obiettivo è ottenere vantaggi pratici per il pentest (es. accesso VPN, enum
 
 ### Key Data Points
 
-|----Data Point----|----------------------------------------------------------- Description ------------------------------------------------------------|
-|------------------|------------------------------------------------------------------------------------------------------------------------------------|
-| IP Space         | ASN, netblock, infrastruttura pubblica, cloud, DNS e provider di hosting utilizzati dall’organizzazione. --------------------------|
-| Domain Info      | Informazioni sui domini: subdomain, servizi esposti (mail, VPN, web), amministrazione dominio e difese attive (SIEM, AV, IDS/IPS). |
-| Schema Format    | Formato username/email, account AD e policy password per costruire wordlist e attacchi (spraying, brute force, stuffing). ---------|
-| Data Disclosures | File pubblici (.pdf, .docx, .xlsx) contenenti informazioni interne (intranet, metadata, share, software, credenziali). ------------|
-| Breach Data      | Credenziali e dati sensibili esposti pubblicamente utili per ottenere accesso iniziale. -------------------------------------------|
+| Data Point | Description |
+|------------------|------------------|
+| IP Space         | ASN, netblock, infrastruttura pubblica, cloud, DNS e provider di hosting utilizzati dall’organizzazione.|
+| Domain Info      | Informazioni sui domini: subdomain, servizi esposti (mail, VPN, web), amministrazione dominio e difese attive (SIEM, AV, IDS/IPS).|
+| Schema Format    | Formato username/email, account AD e policy password per costruire wordlist e attacchi (spraying, brute force, stuffing).|
+| Data Disclosures | File pubblici (.pdf, .docx, .xlsx) contenenti informazioni interne (intranet, metadata, share, software, credenziali).|
+| Breach Data      | Credenziali e dati sensibili esposti pubblicamente utili per ottenere accesso iniziale.|
